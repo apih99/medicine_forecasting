@@ -85,7 +85,7 @@ The application uses several advanced technologies and libraries:
 
 For questions, support, or feature requests, please contact:
 - Email: hafizcr716@gmail.com
-- GitHub: [Project Repository](https://github.com/apih99/medicine-cost-forecast)
+- GitHub: [Project Repository](https://github.com/apih99/medicine_forecasting)
 
 ### Version Information
 - Current Version: 1.0.0
