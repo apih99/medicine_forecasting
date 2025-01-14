@@ -14,7 +14,7 @@ A professional Streamlit application for analyzing and forecasting medicine cost
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/medicine_forecasting.git
+git clone https://github.com/apih99/medicine_forecasting.git
 cd medicine_forecasting
 ```
 
